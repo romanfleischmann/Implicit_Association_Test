@@ -172,3 +172,10 @@ def print_res():
 #exec_condition_a()
 #exec_condition_b()
 print_res()
+
+
+# GL
+# looks pretty good
+# more meaningful variable names would be good
+# one/two line functions may be unnecessary
+# instructionX variables may be more readable in dictionary
